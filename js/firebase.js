@@ -1,12 +1,12 @@
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyCF1QXPm4rN0fmiPl2dRSIEHqKyk2e9SIE",
-  authDomain: "desisupercon.firebaseapp.com",
-  databaseURL: "https://desisupercon-default-rtdb.firebaseio.com",
-  projectId: "desisupercon",
-  storageBucket: "desisupercon.appspot.com",
-  messagingSenderId: "958547183910",
-  appId: "1:958547183910:web:c237cb1f5f774dd7d9d9e7"
+  apiKey: "AIzaSyDOCzSYSI9LzLCnE3qq4olNOlOcP-rwEWI",
+  authDomain: "fazzaaltuyur.firebaseapp.com",
+  databaseURL: "https://fazzaaltuyur-default-rtdb.firebaseio.com",
+  projectId: "fazzaaltuyur",
+  storageBucket: "fazzaaltuyur.firebasestorage.app",
+  messagingSenderId: "597409733717",
+  appId: "1:597409733717:web:0d0120339239f39354c8dc"
 };
 firebase.initializeApp(firebaseConfig);
 const appCheck = firebase.appCheck();
